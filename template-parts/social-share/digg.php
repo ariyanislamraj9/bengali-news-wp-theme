@@ -1,0 +1,1 @@
+<a href="http://digg.com/submit?url=<?php the_permalink(); ?>&amp;title=<?php the_title(); ?>" target="_blank"><i class="lab la-digg"></i></a>

@@ -1,0 +1,1 @@
+<a href="https://twitter.com/share?text=<?php echo urlencode( get_the_title() ); ?>" target="_blank"><i class="lab la-twitter"></i></a>

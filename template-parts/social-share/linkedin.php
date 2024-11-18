@@ -1,0 +1,1 @@
+<a href="http://www.linkedin.com/shareArticle?mini=true&amp;title=<?php the_title(); ?>&amp;url=<?php the_permalink(); ?>" target="_blank"><i class="lab la-linkedin-in"></i></a>

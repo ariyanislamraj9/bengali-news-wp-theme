@@ -1,0 +1,1 @@
+<a href="http://www.facebook.com/sharer.php?u=<?php echo urlencode(get_permalink()); ?>" target="_blank" title="Facebook"><i class="lab la-facebook-f"></i></a>
